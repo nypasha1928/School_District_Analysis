@@ -16,6 +16,7 @@
 ### DISTRICT SUMMARY
 
    * Before ,removing Thomas HS 9th graders scores
+
 ![image](https://github.com/nypasha1928/School_District_Analysis/blob/main/image/District%20Summary.png)
 
    * After , removing Thomas HS 9th graders scores
